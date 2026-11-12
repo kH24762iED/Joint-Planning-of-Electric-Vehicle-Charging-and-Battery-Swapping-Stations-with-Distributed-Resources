@@ -75,5 +75,5 @@ study.runs=1;
 study.solver='auto';
 study.mpc=RC3_case33();
 % study.folder=()
-E = RC3_experiments('L_M', study);
+E = RC3_experiments('L', study);
 test=1;
